@@ -139,6 +139,7 @@ nav ul li a i:hover{
 
 .about-col-1{
     flex-basis: 35%;
+    border-radius: 15px;
 }
 
 .about-col-1 img{
